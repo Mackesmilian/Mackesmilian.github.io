@@ -4,6 +4,30 @@
     font-family: 'Georgia', serif;
 }
 
+h1{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
+h4{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
+h5{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
+h6{
+    font-family: 'Verdana', serif;
+    font-weight: bold;
+}
 header {
     background-image: url(media/background.jpg);
     height: 100vh;
@@ -83,7 +107,7 @@ ul li.active {
     align-items: center;
     justify-content: center;
 }
-.boxedHobby {
+#boxedHobby {
     border: 1px solid white;
     padding: 30px;
     background: white;
